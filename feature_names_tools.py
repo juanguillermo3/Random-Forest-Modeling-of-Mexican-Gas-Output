@@ -1,7 +1,9 @@
+
 """
 title: Feature Names Tools
 description: Simplifies feature names.
 """
+
 import pandas as pd
 
 def rename_columns_for_us_audience(df: pd.DataFrame) -> pd.DataFrame:
